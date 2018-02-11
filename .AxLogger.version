@@ -1,0 +1,9 @@
+{
+  "commitish" : "dc7896554d40dd1b7032e12e0dd442175b661fe8",
+  "iOS" : [
+    {
+      "name" : "AxLogger",
+      "hash" : "4d6d596b421e9f955d93a5e5906d218c58ecb78db09b154b8f73d86797eadcd7"
+    }
+  ]
+}

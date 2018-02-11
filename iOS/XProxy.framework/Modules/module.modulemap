@@ -1,0 +1,11 @@
+framework module XProxy {
+  umbrella header "XProxy.h"
+
+  export *
+  module * { export * }
+}
+
+module XProxy.Swift {
+    header "XProxy-Swift.h"
+    requires objc
+}

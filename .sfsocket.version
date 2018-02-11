@@ -1,0 +1,9 @@
+{
+  "commitish" : "46fcae93f05503d262da61cf46e37db6092dab6b",
+  "iOS" : [
+    {
+      "name" : "SFSocket",
+      "hash" : "7a87a29f918956b2e4b0bc116da66a220e8a2f69fb27c053aef275c5ea6d796a"
+    }
+  ]
+}

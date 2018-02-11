@@ -1,0 +1,11 @@
+framework module lwip {
+  umbrella header "lwip.h"
+
+  export *
+  module * { export * }
+}
+
+module lwip.Swift {
+    header "lwip-Swift.h"
+    requires objc
+}

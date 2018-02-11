@@ -1,0 +1,11 @@
+framework module SFSocket {
+  umbrella header "SFSocket.h"
+
+  export *
+  module * { export * }
+}
+
+module SFSocket.Swift {
+    header "SFSocket-Swift.h"
+    requires objc
+}

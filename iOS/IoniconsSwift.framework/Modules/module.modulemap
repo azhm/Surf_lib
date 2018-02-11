@@ -1,0 +1,11 @@
+framework module IoniconsSwift {
+  umbrella header "IoniconsSwift.h"
+
+  export *
+  module * { export * }
+}
+
+module IoniconsSwift.Swift {
+    header "IoniconsSwift-Swift.h"
+    requires objc
+}

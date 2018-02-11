@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.3",
+  "iOS" : [
+    {
+      "name" : "lwip",
+      "hash" : "d6b813f44994a00a00653bc636a61418e5761aa6377f0781639b7af86e63da34"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.13.0",
+  "iOS" : [
+    {
+      "name" : "SwiftyStoreKit",
+      "hash" : "b055e7f6b6da3e35c0d93ba159049bd43d877ed42bd49728f2af9a6622937af6"
+    }
+  ]
+}

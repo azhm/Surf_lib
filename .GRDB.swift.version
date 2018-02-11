@@ -1,0 +1,17 @@
+{
+  "commitish" : "v2.4.1",
+  "iOS" : [
+    {
+      "name" : "GRDB",
+      "hash" : "2da575d2374ffbf50653845cd69c384116ccf49c39ec1a4c9ec3689e25a485ba"
+    },
+    {
+      "name" : "GRDBCustomSQLite",
+      "hash" : "94608c3a4fc2d475b97315df30693108f5b370c0e3923bb194b5a5963ba6f9c4"
+    },
+    {
+      "name" : "GRDBCipher",
+      "hash" : "6c0fec2148ea4289e7b498e89dd410685bf61b6bf1b723d110b0c6699d599249"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commitish" : "0.10.0",
+  "iOS" : [
+    {
+      "name" : "IDZSwiftCommonCrypto",
+      "hash" : "8fa0a60c966a27db254c189074d9d13957aa62c461048dba932ddb82d508864b"
+    },
+    {
+      "name" : "IDZSwiftCommonCrypto",
+      "hash" : "8fa0a60c966a27db254c189074d9d13957aa62c461048dba932ddb82d508864b"
+    }
+  ]
+}

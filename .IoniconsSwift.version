@@ -1,0 +1,9 @@
+{
+  "commitish" : "2.1.4",
+  "iOS" : [
+    {
+      "name" : "IoniconsSwift",
+      "hash" : "bb0f880f10f958b87132071bdb47809d9f65e4067a18120b014991cd52de6409"
+    }
+  ]
+}

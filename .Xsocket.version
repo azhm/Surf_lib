@@ -1,0 +1,9 @@
+{
+  "commitish" : "f7c6c2f2edb9b66ee7ecb63a1ce0331a5413abbc",
+  "iOS" : [
+    {
+      "name" : "XSocket",
+      "hash" : "264c66f8b703b4a81aeab8804e4b1fd7305e1b67aae1fb3f938bd80c346ee94b"
+    }
+  ]
+}

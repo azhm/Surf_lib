@@ -1,0 +1,4 @@
+framework module XRuler {
+    header "XRuler-Swift.h"
+    requires objc
+}

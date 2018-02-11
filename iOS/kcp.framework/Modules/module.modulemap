@@ -1,0 +1,6 @@
+framework module kcp {
+  umbrella header "kcp.h"
+
+  export *
+  module * { export * }
+}

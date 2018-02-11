@@ -1,0 +1,343 @@
+BCSymbolMap Version: 2.0
+-[STTraffic WiFiSent]
+-[STTraffic setWiFiSent:]
+-[STTraffic WiFiReceived]
+-[STTraffic setWiFiReceived:]
+-[STTraffic WWANSent]
+-[STTraffic setWWANSent:]
+-[STTraffic WWANReceived]
+-[STTraffic setWWANReceived:]
+-[STTraffic TunSent]
+-[STTraffic setTunSent:]
+-[STTraffic TunReceived]
+-[STTraffic setTunReceived:]
+-[STTraffic show]
+-[STTraffic setShow:]
+_OBJC_IVAR_$_STTraffic._WiFiSent
+_OBJC_IVAR_$_STTraffic._WiFiReceived
+_OBJC_IVAR_$_STTraffic._WWANSent
+_OBJC_IVAR_$_STTraffic._WWANReceived
+_OBJC_IVAR_$_STTraffic._TunSent
+_OBJC_IVAR_$_STTraffic._TunReceived
+_OBJC_IVAR_$_STTraffic._show
+Apple LLVM version 9.1.0 (clang-902.0.31)
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/STTraffic.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/STTraffic.h
+DataCounters
+tunname
+-[GCDSocket initWithRemoteaddr:port:]
+-[GCDSocket initWithFD:remoteaddr:port:]
+-[GCDSocket initWithPort:share:]
+-[GCDSocket accept:]
+___20-[GCDSocket accept:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+___20-[GCDSocket accept:]_block_invoke.33
+___20-[GCDSocket accept:]_block_invoke_2
+___copy_helper_block_.44
+___destroy_helper_block_.45
+___copy_helper_block_.47
+___destroy_helper_block_.48
+___20-[GCDSocket accept:]_block_invoke.50
+-[GCDSocket write:completionHandler:]
+___37-[GCDSocket write:completionHandler:]_block_invoke
+___37-[GCDSocket write:completionHandler:]_block_invoke_2
+___copy_helper_block_.62
+___destroy_helper_block_.63
+___copy_helper_block_.67
+___destroy_helper_block_.68
+___37-[GCDSocket write:completionHandler:]_block_invoke.70
+___copy_helper_block_.72
+___destroy_helper_block_.73
+-[GCDSocket readWithCompletionHandler:]
+___39-[GCDSocket readWithCompletionHandler:]_block_invoke
+___39-[GCDSocket readWithCompletionHandler:]_block_invoke_2
+___copy_helper_block_.85
+___destroy_helper_block_.86
+___39-[GCDSocket readWithCompletionHandler:]_block_invoke.101
+___copy_helper_block_.102
+___destroy_helper_block_.103
+___39-[GCDSocket readWithCompletionHandler:]_block_invoke.109
+___copy_helper_block_.110
+___destroy_helper_block_.111
+___copy_helper_block_.113
+___destroy_helper_block_.114
+___39-[GCDSocket readWithCompletionHandler:]_block_invoke.116
+___copy_helper_block_.118
+___destroy_helper_block_.119
+-[GCDSocket closeReadWithError:]
+-[GCDSocket closeWriteWithError:]
+-[GCDSocket close]
+-[GCDSocket connectRemote:service:]
+-[GCDSocket sfd]
+-[GCDSocket setSfd:]
+-[GCDSocket writing]
+-[GCDSocket setWriting:]
+-[GCDSocket reading]
+-[GCDSocket setReading:]
+-[GCDSocket readError]
+-[GCDSocket setReadError:]
+-[GCDSocket writeError]
+-[GCDSocket setWriteError:]
+-[GCDSocket g_accepting_requests]
+-[GCDSocket setG_accepting_requests:]
+-[GCDSocket remote]
+-[GCDSocket setRemote:]
+-[GCDSocket port]
+-[GCDSocket setPort:]
+-[GCDSocket dispatchQueue]
+-[GCDSocket setDispatchQueue:]
+-[GCDSocket socketQueue]
+-[GCDSocket setSocketQueue:]
+-[GCDSocket readSource]
+-[GCDSocket setReadSource:]
+-[GCDSocket writeSource]
+-[GCDSocket setWriteSource:]
+-[GCDSocket .cxx_destruct]
+_OBJC_IVAR_$_GCDSocket._g_accepting_requests
+___block_descriptor_tmp
+___block_descriptor_tmp.46
+___block_descriptor_tmp.49
+___block_descriptor_tmp.52
+___block_descriptor_tmp.64
+___block_descriptor_tmp.69
+___block_descriptor_tmp.74
+___block_descriptor_tmp.87
+___block_descriptor_tmp.104
+___block_descriptor_tmp.112
+___block_descriptor_tmp.115
+___block_descriptor_tmp.120
+_OBJC_IVAR_$_GCDSocket._sfd
+_OBJC_IVAR_$_GCDSocket._writing
+_OBJC_IVAR_$_GCDSocket._reading
+_OBJC_IVAR_$_GCDSocket._readError
+_OBJC_IVAR_$_GCDSocket._writeError
+_OBJC_IVAR_$_GCDSocket._remote
+_OBJC_IVAR_$_GCDSocket._port
+_OBJC_IVAR_$_GCDSocket._dispatchQueue
+_OBJC_IVAR_$_GCDSocket._socketQueue
+_OBJC_IVAR_$_GCDSocket._readSource
+_OBJC_IVAR_$_GCDSocket._writeSource
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/GCDSocket.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/GCDSocket.h
+__destroy_helper_block_
+__copy_helper_block_
+__39-[GCDSocket readWithCompletionHandler:]_block_invoke.116
+__39-[GCDSocket readWithCompletionHandler:]_block_invoke.109
+__39-[GCDSocket readWithCompletionHandler:]_block_invoke.101
+__39-[GCDSocket readWithCompletionHandler:]_block_invoke_2
+__39-[GCDSocket readWithCompletionHandler:]_block_invoke
+__37-[GCDSocket write:completionHandler:]_block_invoke.70
+__37-[GCDSocket write:completionHandler:]_block_invoke_2
+__37-[GCDSocket write:completionHandler:]_block_invoke
+__20-[GCDSocket accept:]_block_invoke.50
+__20-[GCDSocket accept:]_block_invoke_2
+__20-[GCDSocket accept:]_block_invoke.33
+__20-[GCDSocket accept:]_block_invoke
+-[DNSResultRecord ipaddress]
+-[DNSResultRecord setIpaddress:]
+-[DNSResultRecord type]
+-[DNSResultRecord setType:]
+-[DNSResultRecord .cxx_destruct]
+-[DNSResolver record:onInterface:]
+-[DNSResolver recordExpired:]
+-[DNSResolver failed:]
+-[DNSResolver querey:complete:]
+___31-[DNSResolver querey:complete:]_block_invoke
+-[DNSResolver dealloc]
+-[DNSResolver startDate]
+-[DNSResolver setStartDate:]
+-[DNSResolver hostname]
+-[DNSResolver setHostname:]
+-[DNSResolver dnsRequestCompleted]
+-[DNSResolver setDnsRequestCompleted:]
+-[DNSResolver .cxx_destruct]
+_OBJC_IVAR_$_DNSResultRecord._ipaddress
+_OBJC_IVAR_$_DNSResultRecord._type
+_OBJC_IVAR_$_DNSResolver._startDate
+_OBJC_IVAR_$_DNSResolver._hostname
+_OBJC_IVAR_$_DNSResolver._dnsRequestCompleted
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DNSResolver.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DNSResolver.h
+__31-[DNSResolver querey:complete:]_block_invoke
+callback
+-[SocketServer initWith:dispatchQueue:socketQueue:share:]
+-[SocketServer startWith:]
+___26-[SocketServer startWith:]_block_invoke
+-[SocketServer stop]
+-[SocketServer pause]
+-[SocketServer dispatchQueue]
+-[SocketServer setDispatchQueue:]
+-[SocketServer socket]
+-[SocketServer setSocket:]
+-[SocketServer share]
+-[SocketServer setShare:]
+-[SocketServer .cxx_destruct]
+_OBJC_IVAR_$_SocketServer._dispatchQueue
+_OBJC_IVAR_$_SocketServer._socket
+_OBJC_IVAR_$_SocketServer._share
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/SocketServer.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/SocketServer.h
+__26-[SocketServer startWith:]_block_invoke
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/IPSum.m
+print_free_memory
+ipHeader
+ip_sum
++[DCIPAddr cellAddress]
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DCIPAddr.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/xsocket.m
+server_check_in
+-[TLSToolCommon certificatesFromHandshake:]
+-[TLSToolCommon logCertificateInfoForTrust:context:]
+-[TLSToolCommon logCertificateDataForTrust:]
+-[TLSToolCommon logTrustDetails:context:]
+-[TLSToolCommon logWithFormat:]
+___31-[TLSToolCommon logWithFormat:]_block_invoke
+-[TLSToolCommon importCertificateToKeychain:withPassword:name:]
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/TLSToolCommon.m
+__31-[TLSToolCommon logWithFormat:]_block_invoke
++[Route currntRouterInet4:defaultRouter:]
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/Route.m
+plural
++[DarwinCoreLogger sharedManager]
+___33+[DarwinCoreLogger sharedManager]_block_invoke
+-[DarwinCoreLogger debugEnable]
+-[DarwinCoreLogger setDebugEnable:]
+_sharedManager.logger
+_sharedManager.onceToken
+_OBJC_IVAR_$_DarwinCoreLogger._debugEnable
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DarwinCoreLogger.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DarwinCoreLogger.h
+__33+[DarwinCoreLogger sharedManager]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/dispatch/once.h
++[DNS loadSystemDNSServer]
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/DNS.m
+_lastTime
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/ioSock.c
+SocketWrite
+SocketRead
+outputDot
+endpointShutdown
+AcceptClientConnection
+ListenForClients
+MakeServerConnection
+initSslOt
++[TLSUtilities stringForCipherSuite:]
++[TLSUtilities stringForProtocolVersion:]
++[TLSUtilities stringForTrustResult:]
++[TLSUtilities keyBitSizeStringForCertificate:]
++[TLSUtilities keyAlgorithmStringForCertificate:]
++[TLSUtilities signatureAlgorithmStringForCertificate:]
++[TLSUtilities subjectSummaryForIdentity:]
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/TLSUtilities.m
++[GCDSocketServer shared]
+___25+[GCDSocketServer shared]_block_invoke
+-[GCDSocketServer pauseRestartServer]
+-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]
+___63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke
+___63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke_2
+___63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke_3
+___copy_helper_block_.31
+___destroy_helper_block_.32
+___63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke.34
+-[GCDSocketServer server_accept:q:]
+___35-[GCDSocketServer server_accept:q:]_block_invoke
+___copy_helper_block_.48
+___destroy_helper_block_.49
+___35-[GCDSocketServer server_accept:q:]_block_invoke.51
+___35-[GCDSocketServer server_accept:q:]_block_invoke_2
+___copy_helper_block_.55
+___destroy_helper_block_.56
+___copy_helper_block_.58
+___destroy_helper_block_.59
+-[GCDSocketServer stopServer]
+-[GCDSocketServer running]
+-[GCDSocketServer server_read:buff:size:start:total:]
+___53-[GCDSocketServer server_read:buff:size:start:total:]_block_invoke
+___copy_helper_block_.74
+___destroy_helper_block_.75
+-[GCDSocketServer server_write_request:data:finish:]
+___52-[GCDSocketServer server_write_request:data:finish:]_block_invoke
+___52-[GCDSocketServer server_write_request:data:finish:]_block_invoke_2
+___copy_helper_block_.79
+___destroy_helper_block_.80
+___52-[GCDSocketServer server_write_request:data:finish:]_block_invoke.84
+___copy_helper_block_.88
+___destroy_helper_block_.89
+___52-[GCDSocketServer server_write_request:data:finish:]_block_invoke.91
+-[GCDSocketServer dispatchQueue]
+-[GCDSocketServer setDispatchQueue:]
+-[GCDSocketServer socketQueue]
+-[GCDSocketServer setSocketQueue:]
+-[GCDSocketServer sfd]
+-[GCDSocketServer setSfd:]
+-[GCDSocketServer accept]
+-[GCDSocketServer setAccept:]
+-[GCDSocketServer colse]
+-[GCDSocketServer setColse:]
+-[GCDSocketServer incoming]
+-[GCDSocketServer setIncoming:]
+-[GCDSocketServer as]
+-[GCDSocketServer setAs:]
+-[GCDSocketServer .cxx_destruct]
+_shared.server
+_shared.onceToken
+___block_literal_global
+_g_accepting_requests
+___block_descriptor_tmp.14
+___block_literal_global.15
+___block_descriptor_tmp.28
+___block_descriptor_tmp.33
+___block_descriptor_tmp.36
+___block_descriptor_tmp.50
+___block_descriptor_tmp.57
+___block_descriptor_tmp.60
+___block_descriptor_tmp.76
+___block_descriptor_tmp.81
+___block_descriptor_tmp.90
+___block_descriptor_tmp.94
+_OBJC_IVAR_$_GCDSocketServer._dispatchQueue
+_OBJC_IVAR_$_GCDSocketServer._socketQueue
+_OBJC_IVAR_$_GCDSocketServer._sfd
+_OBJC_IVAR_$_GCDSocketServer._accept
+_OBJC_IVAR_$_GCDSocketServer._colse
+_OBJC_IVAR_$_GCDSocketServer._incoming
+_OBJC_IVAR_$_GCDSocketServer._as
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/GCDSocketServer.m
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/GCDSocketServer.h
+__52-[GCDSocketServer server_write_request:data:finish:]_block_invoke.91
+__52-[GCDSocketServer server_write_request:data:finish:]_block_invoke.84
+__52-[GCDSocketServer server_write_request:data:finish:]_block_invoke_2
+__52-[GCDSocketServer server_write_request:data:finish:]_block_invoke
+__53-[GCDSocketServer server_read:buff:size:start:total:]_block_invoke
+__35-[GCDSocketServer server_accept:q:]_block_invoke_2
+__35-[GCDSocketServer server_accept:q:]_block_invoke.51
+__35-[GCDSocketServer server_accept:q:]_block_invoke
+__63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke.34
+__63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke_3
+__63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke_2
+__63-[GCDSocketServer startServer:dispatchQueue:socketQueue:share:]_block_invoke
+__25+[GCDSocketServer shared]_block_invoke
+_p_sockaddr
+_routename.line
+_netname.line
+_np_rtentry.old_fam
+_np_rtentry.ifname
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/DarwinCore/DarwinCore/route.c
+p_sockaddr
+_OSSwapInt32
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/libkern/arm/OSByteOrder.h
+upHex
+rt_stats
+netname
+domask
+forgemask
+routename
+routepr
+np_rtentry
+p_flags
+get_rtaddrs
+pr_rthdr
+pr_family
+/Users/yarshure/Library/Caches/org.carthage.CarthageKit/DerivedData/9.3_9Q107o/DarwinCore/5cae12a69d9fbe379dd392978c706d166ef27de6/Build/Intermediates.noindex/ArchiveIntermediates/DarwinCore/IntermediateBuildFilesPath/DarwinCore.build/Release-iphoneos/DarwinCore.build/DerivedSources/DarwinCore_vers.c

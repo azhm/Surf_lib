@@ -1,0 +1,9 @@
+{
+  "commitish" : "ff1a38ede969b22f743d1e238c59f0e3e2ac2077",
+  "iOS" : [
+    {
+      "name" : "XProxy",
+      "hash" : "775368dc7a2328215e4fef6ddef054a0d66ce31daaad278cc9df55d88772e444"
+    }
+  ]
+}

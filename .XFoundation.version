@@ -1,0 +1,9 @@
+{
+  "commitish" : "e6c2f884d9231763b62207e4bbc1b33fe5c37ec5",
+  "iOS" : [
+    {
+      "name" : "XFoundation",
+      "hash" : "8fe86d2265da0d670fbc2342ed7634e12aa8aaaeb9941df59b0df682fd51f07d"
+    }
+  ]
+}

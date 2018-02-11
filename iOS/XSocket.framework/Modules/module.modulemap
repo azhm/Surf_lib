@@ -1,0 +1,11 @@
+framework module XSocket {
+  umbrella header "XSocket.h"
+
+  export *
+  module * { export * }
+}
+
+module XSocket.Swift {
+    header "XSocket-Swift.h"
+    requires objc
+}

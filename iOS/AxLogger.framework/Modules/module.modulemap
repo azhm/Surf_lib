@@ -1,0 +1,11 @@
+framework module AxLogger {
+  umbrella header "AxLogger.h"
+
+  export *
+  module * { export * }
+}
+
+module AxLogger.Swift {
+    header "AxLogger-Swift.h"
+    requires objc
+}

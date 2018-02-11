@@ -1,0 +1,184 @@
+BCSymbolMap Version: 2.0
+__ZN6snappy18SnappyDecompressor22ReadUncompressedLengthEPj
+__ZN6snappyL18InternalUncompressINS_28SnappyDecompressionValidatorEEEbPNS_6SourceEPT_
+__ZN6snappyL25InternalUncompressAllTagsINS_21SnappyScatteredWriterINS_19SnappySinkAllocatorEEEEEbPNS_18SnappyDecompressorEPT_j
+___clang_call_terminate
+__ZN6snappy18SnappyDecompressor17DecompressAllTagsINS_17SnappyIOVecWriterEEEvPT_
+__ZN6snappy17SnappyIOVecWriter14AppendFromSelfEmm
+__ZN6snappy18SnappyDecompressor17DecompressAllTagsINS_28SnappyDecompressionValidatorEEEvPT_
+__ZN6snappy18SnappyDecompressor17DecompressAllTagsINS_17SnappyArrayWriterEEEvPT_
+__ZN6snappy18SnappyDecompressor17DecompressAllTagsINS_21SnappyScatteredWriterINS_19SnappySinkAllocatorEEEEEvPT_
+__ZN6snappy19SnappySinkAllocator8AllocateEi
+__ZN6snappy19SnappySinkAllocator5FlushEm
+__ZN6snappy19SnappySinkAllocator7DeleterEPvPKcm
+__ZN6snappy8internalL10char_tableE
+__ZN6snappy8internalL8wordmaskE
+Apple LLVM version 9.1.0 (clang-902.0.31)
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy.cc
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/libsnappy
+Deleter
+Flush
+size
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector
+min<unsigned long>
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm
+min<unsigned long, std::__1::__less<unsigned long, unsigned long> >
+operator()
+operator[]
+clear
+__destruct_at_end
+SlowAppendFromSelf
+Append
+Size
+__split_buffer
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__split_buffer
+allocate
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/memory
+__allocate
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/new
+__throw_length_error
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/stdexcept
+length_error
+__compressed_pair<nullptr_t, std::__1::allocator<char *> &>
+__compressed_pair_elem<std::__1::allocator<char *> &, void>
+__compressed_pair_elem<nullptr_t, void>
+__push_back_slow_path<char *const &>
+~__split_buffer
+deallocate
+__libcpp_deallocate
+__swap_out_circular_buffer
+swap<char **>
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/type_traits
+__end_cap
+first
+__get
+__construct_backward<char *>
+construct<char *, char *const &>
+__construct<char *, char *const &>
+__recommend
+max<unsigned long>
+max<unsigned long, std::__1::__less<unsigned long, unsigned long> >
+capacity
+__alloc
+second
+__compressed_pair<nullptr_t, std::__1::allocator<snappy::SnappySinkAllocator::Datablock> &>
+__compressed_pair_elem<std::__1::allocator<snappy::SnappySinkAllocator::Datablock> &, void>
+__push_back_slow_path<const snappy::SnappySinkAllocator::Datablock &>
+swap<snappy::SnappySinkAllocator::Datablock *>
+__construct_backward<snappy::SnappySinkAllocator::Datablock>
+construct<snappy::SnappySinkAllocator::Datablock, const snappy::SnappySinkAllocator::Datablock &>
+__construct<snappy::SnappySinkAllocator::Datablock, const snappy::SnappySinkAllocator::Datablock &>
+Allocate
+push_back
+Datablock
+SlowAppend
+DecompressAllTags<snappy::SnappyScatteredWriter<snappy::SnappySinkAllocator> >
+AppendFromSelf
+IncrementalCopyFastPath
+UnalignedCopy64
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-stubs-internal.h
+UNALIGNED_STORE64
+UNALIGNED_LOAD64
+Load32
+UNALIGNED_LOAD32
+TryFastAppend
+DecompressAllTags<snappy::SnappyArrayWriter>
+IncrementalCopy
+vector
+~__vector_base
+__construct_at_end<snappy::SnappySinkAllocator::Datablock *>
+__construct_range_forward<snappy::SnappySinkAllocator::Datablock>
+__vector_base
+DecompressAllTags<snappy::SnappyDecompressionValidator>
+GetIOVecPointer
+DecompressAllTags<snappy::SnappyIOVecWriter>
+InternalUncompressAllTags<snappy::SnappyScatteredWriter<snappy::SnappySinkAllocator> >
+CheckLength
+eof
+Produced
+SetExpectedLength
+empty
+Uncompress
+~SnappyDecompressor
+~SnappySinkAllocator
+~vector
+~SnappyScatteredWriter
+SnappyScatteredWriter
+SnappySinkAllocator
+InternalUncompressAllTags<snappy::SnappyArrayWriter>
+SnappyArrayWriter
+SnappyDecompressor
+UncompressAsMuchAsPossible
+InternalUncompress<snappy::SnappyScatteredWriter<snappy::SnappySinkAllocator> >
+Compress
+resize
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string
+string_as_array
+begin
+__get_pointer
+__get_short_pointer
+__get_long_pointer
+__get_short_size
+__get_long_size
+__is_long
+MaxCompressedLength
+RawCompress
+CurrentDestination
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-sinksource.h
+UncheckedByteArraySink
+ByteArraySource
+IsValidCompressed
+SnappyDecompressionValidator
+InternalUncompress<snappy::SnappyDecompressionValidator>
+InternalUncompressAllTags<snappy::SnappyDecompressionValidator>
+IsValidCompressedBuffer
+STLStringResizeUninitialized
+RawUncompress
+InternalUncompress<snappy::SnappyArrayWriter>
+RawUncompressToIOVec
+InternalUncompress<snappy::SnappyIOVecWriter>
+InternalUncompressAllTags<snappy::SnappyIOVecWriter>
+SnappyIOVecWriter
+~WorkingMemory
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-internal.h
+GetHashTable
+WorkingMemory
+Encode32
+ReadUncompressedLength
+GetUncompressedLength
+RefillTag
+min<unsigned int>
+min<unsigned int, std::__1::__less<unsigned int, unsigned int> >
+CompressFragment
+EmitLiteral
+GetUint32AtOffset
+HashBytes
+EmitCopy
+EmitCopyLessThan64
+Store16
+UNALIGNED_STORE16
+FindMatchLength
+FindLSBSetNonZero
+Hash
+Log2Floor
+Parse32WithLimit
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-sinksource.cc
+GetAppendBufferVariable
+AppendAndTakeOwnership
+GetAppendBuffer
+~UncheckedByteArraySink
+Skip
+Peek
+Available
+~ByteArraySource
+~Sink
+~Source
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-c.cc
+snappy_validate_compressed_buffer
+snappy_uncompressed_length
+snappy_uncompress
+snappy_max_compressed_length
+snappy_compress
+/Users/yarshure/surf_open/surf/Carthage/Checkouts/snappy-ios/snappy-stubs-internal.cc
+Append32
+/Users/yarshure/Library/Caches/org.carthage.CarthageKit/DerivedData/9.3_9Q107o/snappy-ios/72c2b14842943a1f21eb2a76c06d76689fd7aa57/Build/Intermediates.noindex/ArchiveIntermediates/libsnappy/IntermediateBuildFilesPath/libsnappy.build/Release-iphoneos/snappy.build/DerivedSources/snappy_vers.c

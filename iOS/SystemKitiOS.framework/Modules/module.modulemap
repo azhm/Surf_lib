@@ -1,0 +1,4 @@
+framework module SystemKitiOS {
+    header "SystemKitiOS-Swift.h"
+    requires objc
+}

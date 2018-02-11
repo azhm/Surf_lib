@@ -1,0 +1,9 @@
+{
+  "commitish" : "bef4a86e2e0020f7254f1dd4f3484585a9acbb91",
+  "iOS" : [
+    {
+      "name" : "kcp",
+      "hash" : "982b3720f67040acf7beb964bb38debd117afb5fddf809cbc893ee8748d6f78a"
+    }
+  ]
+}

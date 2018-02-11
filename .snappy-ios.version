@@ -1,0 +1,9 @@
+{
+  "commitish" : "72c2b14842943a1f21eb2a76c06d76689fd7aa57",
+  "iOS" : [
+    {
+      "name" : "snappy",
+      "hash" : "ce7cd9739a8c4543c35b40bc8aad7bd4f03853abcfcc05f6d3019ed455d57a1a"
+    }
+  ]
+}

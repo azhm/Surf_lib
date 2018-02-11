@@ -1,0 +1,6 @@
+framework module DarwinCore {
+  umbrella header "DarwinCore.h"
+
+  export *
+  module * { export * }
+}

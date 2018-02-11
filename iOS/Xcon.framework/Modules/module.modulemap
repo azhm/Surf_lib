@@ -1,0 +1,11 @@
+framework module Xcon {
+  umbrella header "Xcon.h"
+
+  export *
+  module * { export * }
+}
+
+module Xcon.Swift {
+    header "Xcon-Swift.h"
+    requires objc
+}

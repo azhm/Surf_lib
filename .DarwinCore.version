@@ -1,0 +1,9 @@
+{
+  "commitish" : "5cae12a69d9fbe379dd392978c706d166ef27de6",
+  "iOS" : [
+    {
+      "name" : "DarwinCore",
+      "hash" : "99961a0b4554fea5a7abb69359247b434d20af45aca3ea53b3dadea17852f325"
+    }
+  ]
+}

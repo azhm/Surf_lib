@@ -1,0 +1,6 @@
+framework module snappy {
+  umbrella header "snappy.h"
+
+  export *
+  module * { export * }
+}
